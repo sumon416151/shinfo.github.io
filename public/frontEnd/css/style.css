@@ -1,0 +1,151 @@
+
+.navbar{
+	background:#E8EAED;
+}
+
+#home-section{
+	background:url('../img/hd_1.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-top:55px;
+}
+.overlay{
+	background:rgba(95,60,120,0.5);
+	padding-top:70px;
+	padding-bottom:50px;
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-left:20px;
+	padding-right:30px;
+}
+
+.card{
+	background:rgba(95,60,120,0.7);
+}
+.social_link i{
+	float:left;
+	margin-left:40px;
+	cursor:pointer;
+	background:rgba(95,60,120,0.7);
+	padding:10px;
+	border-radius:50px;
+}
+.social_link i:hover{
+	background:#2E99C3;
+	transition:1s;
+	color:green;
+}
+.text_right{
+	background:rgba(95,60,120,0.7);
+	padding:10px;
+	border-radius:5px;
+}
+#about-section{
+	padding-right:50px;
+	padding-left:50px;
+}
+
+#accademic{
+	background:url('../img/hd_1.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin-top:55px;
+}
+
+.item-box{
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  border-top: 2px solid green;
+  position: relative;
+}
+.mix{
+	margin:10px;
+}
+.mix span{
+	margin-top:50px;
+	margin-left:150px;
+	background:red;
+	border-radius:50px;
+	padding:15px;
+	font-size:23px;
+}
+.mix span:hover{
+	background:green;
+	transition:1s;
+}
+/*About Page=========*/
+.aboutPage{
+	margin-top:55px;
+}
+.aboutImg{
+	height:400px;
+}
+.aboutMore{
+	background:#F0F0F0;
+}
+/*Graphics Page=======*/
+.graphics_1{
+	margin-top:55px;
+}
+.graphics_1 .mix  i{
+	float:left;
+	background:gray;
+	border-radius:5px;
+	margin-left:40px;
+	margin-top:200px;
+	padding:10px;
+	cursor:pointer;
+	
+}
+.graphics_1 .mix  i:hover{
+	background:green;
+}
+/*COntact pagr========*/
+.contact_1{
+	margin-top:55px;
+}
+
+/*Services Page============&*/
+.servicePage{
+	margin-top:55px;
+}
+
+
+
+@media(max-width:520px){
+	.social_link i{
+		margin-left:20px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
